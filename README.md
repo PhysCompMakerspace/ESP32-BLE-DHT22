@@ -1,8 +1,8 @@
 # Physical Computing Makerspace Workshop
+## Getting Started Microcontrollers: ESP32, BLE, and DHT22
 
-Reads temperature and humidity from a DHT22 sensor and sends the data over BLE.
-
-You can use "nRF Connect" app on your phone to connect to the ESP32 and read the values.
+Read temperature and humidity from a DHT22 sensor, then send the data over BLE to a smartphone.
+Use "nRF Connect" app on the smartphone to connect via Bluetooth to the ESP32.
 
 
 ## Install Drivers for ESP32:
