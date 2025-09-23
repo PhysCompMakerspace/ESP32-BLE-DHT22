@@ -36,11 +36,11 @@ Use "nRF Connect" app on the smartphone to connect via Bluetooth to the ESP32.
 
 ## Sketch Setup:
 * Get code from GitHub:
- * https://github.com/PhysCompMakerspace/ESP32-BLE-DHT22 
+  * https://github.com/PhysCompMakerspace/ESP32-BLE-DHT22 
 * Arduino IDE expects that each sketch is in its own directory with the same name.
- * Save “ESP32-BLE-DHT22.ino” to a folder named “ESP32-BLE-DHT22.ino”
+  * Save “ESP32-BLE-DHT22.ino” to a folder named “ESP32-BLE-DHT22.ino”
 * Customize the name of your ESP32 on line 66 (or so):
- * BLEDevice::init("Evil ESP32");
+  * BLEDevice::init("Evil ESP32");
 * This helps uniquely identify your BLE server from your neighbors.
 
 ## Code Overview:
