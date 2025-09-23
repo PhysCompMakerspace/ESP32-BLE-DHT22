@@ -54,7 +54,7 @@ Use "nRF Connect" app on the smartphone to connect via Bluetooth to the ESP32.
 Use the Dupont connector wires to connect the following:
 * "+" pin -> 3V3 pin on ESP32
 * OUT pin -> D4 pin on ESP32
-* – pin -> GND pin on ESP32
+* "–" pin -> GND pin on ESP32
 <img width="892" height="381" alt="image" src="https://github.com/user-attachments/assets/e7716a63-df63-4c80-9501-558486184ab6" />
 
 ## Upload to ESP32:
